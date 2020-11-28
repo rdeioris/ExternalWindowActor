@@ -8,7 +8,7 @@
 #include "ExternalWindowActor.generated.h"
 
 UCLASS()
-class ETXERNALWINDOWS_API AExternalWindowActor : public AActor
+class AExternalWindowActor : public AActor
 {
 	GENERATED_BODY()
 	
